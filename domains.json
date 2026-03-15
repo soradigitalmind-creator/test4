@@ -2,11 +2,11 @@
   {
     "slug": "battery",
     "title": "battery",
-    "sources": 1024,
+    "sources": 1018,
     "subgenres": 84,
-    "entities": 187,
-    "claims": 28,
+    "entities": 189,
+    "claims": 32,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-15T10:59:55.290543Z"
+    "updated_at": "2026-03-15T11:13:04.017982Z"
   }
 ]
