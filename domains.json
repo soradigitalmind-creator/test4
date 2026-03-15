@@ -4,9 +4,9 @@
     "title": "battery",
     "sources": 1024,
     "subgenres": 84,
-    "entities": 188,
-    "claims": 28,
+    "entities": 187,
+    "claims": 35,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-15T08:43:45.327606Z"
+    "updated_at": "2026-03-15T08:48:29.768039Z"
   }
 ]
