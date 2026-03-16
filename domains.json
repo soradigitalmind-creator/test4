@@ -1,5 +1,15 @@
 [
   {
+    "slug": "automobile",
+    "title": "automobile",
+    "sources": 1000,
+    "subgenres": 81,
+    "entities": 1896,
+    "claims": 12,
+    "abstraction_label": "A family of automobile technologies.",
+    "updated_at": "2026-03-16T02:19:37.021982Z"
+  },
+  {
     "slug": "battery",
     "title": "battery",
     "sources": 1000,
@@ -7,6 +17,16 @@
     "entities": 860,
     "claims": 88,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-15T13:32:26.549101Z"
+    "updated_at": "2026-03-16T01:11:13.434239Z"
+  },
+  {
+    "slug": "sensor",
+    "title": "sensor",
+    "sources": 1004,
+    "subgenres": 82,
+    "entities": 1753,
+    "claims": 13,
+    "abstraction_label": "A family of sensor technologies.",
+    "updated_at": "2026-03-16T02:13:39.781367Z"
   }
 ]
